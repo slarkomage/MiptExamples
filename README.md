@@ -1,5 +1,5 @@
 # MiptExamples
-## Структуры данных и алгоритмы из заданмй 1 курса бакалавриата ФПМИ МФТИ.
+## Структуры данных и алгоритмы из заданий 1 курса бакалавриата ФПМИ МФТИ.
 * [BigInteger + Rational](https://github.com/slarkomage/MiptExamples/blob/main/BigInteger/BigInteger_Rational.cpp)
 * [String](https://github.com/slarkomage/MiptExamples/blob/main/String/String.cpp)
 * [Data Structures](https://github.com/slarkomage/MiptExamples/tree/main/DataStructures) 
