@@ -7,3 +7,4 @@
   + [HashTable](https://github.com/slarkomage/MiptExamples/blob/main/DataStructures/HashTable.cpp)
   + [SparseTable](https://github.com/slarkomage/MiptExamples/blob/main/DataStructures/SparseTable.cpp)
   + [HashTable](https://github.com/slarkomage/MiptExamples/blob/main/DataStructures/HashTable.cpp)
+* [Graph Algorithms](https://github.com/slarkomage/MiptExamples/tree/main/Graphs)
